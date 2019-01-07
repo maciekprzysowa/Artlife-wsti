@@ -1,0 +1,11 @@
+/home/maciek/repos/TestApp1/bin/Debug/netcoreapp2.1/TestApp1.deps.json
+/home/maciek/repos/TestApp1/bin/Debug/netcoreapp2.1/TestApp1.runtimeconfig.json
+/home/maciek/repos/TestApp1/bin/Debug/netcoreapp2.1/TestApp1.runtimeconfig.dev.json
+/home/maciek/repos/TestApp1/bin/Debug/netcoreapp2.1/TestApp1.dll
+/home/maciek/repos/TestApp1/bin/Debug/netcoreapp2.1/TestApp1.pdb
+/home/maciek/repos/TestApp1/obj/Debug/netcoreapp2.1/TestApp1.csprojAssemblyReference.cache
+/home/maciek/repos/TestApp1/obj/Debug/netcoreapp2.1/TestApp1.csproj.CoreCompileInputs.cache
+/home/maciek/repos/TestApp1/obj/Debug/netcoreapp2.1/TestApp1.AssemblyInfoInputs.cache
+/home/maciek/repos/TestApp1/obj/Debug/netcoreapp2.1/TestApp1.AssemblyInfo.cs
+/home/maciek/repos/TestApp1/obj/Debug/netcoreapp2.1/TestApp1.dll
+/home/maciek/repos/TestApp1/obj/Debug/netcoreapp2.1/TestApp1.pdb
